@@ -1,0 +1,223 @@
+L.L.M USED "CLAUDE"
+
+Prompts For MamaPutOnline Landing Page
+
+PROMPT 1
+
+Create a landing page for a nigerian  online kitchen named  "MamaPutOnline" using HTML & Vanilla CSS.  Use colours like deep red, forest green, cream,  gold, charcoal, and white. Establish consistent spacing, animation timing, and font families preferrably roboto,san-serif and monsterrat to maintain harmony throughout the website.
+
+
+PROMPT 2
+
+Design a header for MamaPutOnline on a darkred background in a sticky position. The header should position the restaurant logo on the top left, the navigation menu at the center, and the search functionality at the right. Use a deep kitchen-red background colour. The navigation links should be bold, and when hovered on, will show dropdown for each nav.
+
+
+
+PROMPT 3
+
+Create a logo section for MamaPutOnline consisting of a kitchen utensil icon with the brand name "MamaPutOnline.  Use colours such as gold and white against the dark-red header background. 
+
+
+PROMPT 4
+
+Implement dropdown menus for the navigation items. Each parent navigation link should reveal a submenu on hover. The dropdown should appear directly beneath the parent item,in a white background.
+
+And then develop a search bar within the navigation area. The search section should contain:
+
+A search icon positioned inside the input field at the left side,a rounded search input box and search button embedded within the input container.
+
+
+PROMPT 6
+For the hero section, it should occupy about 30% of the viewport height and 100% of the page width.
+Divide the hero section vertically into two equal sections.
+The left side should showcase a  Nigerian catering image with hover animations. and the right side should display bold marketing text encouraging visitors not to miss the opportunity to order delicious meals online. Maintain proper aspect ratio. A mixture of a darkred and green would be preferrable.
+
+
+PROMPT 7
+Create a  food showcase with a sticky category sidebar (Soups, Rice Specials, other special meals, appetizers, dessert and drinks, each with icons and hover effects) alongside a responsive product grid. Organize items into labelled rows by category, featuring product cards with images, , meal names, quantities, prices, and Add to Cart/Favourite buttons. Cards should have an hover to emphasize quality, while the layout adapts smoothly across all screen sizes.
+
+PROMPT 8
+Create a services section for the landing page using a grid or flexbox, Each card should include:
+An icon, a title, and a short explanatory paragraph, in a gread background. 
+
+
+PROMPT 9
+Design a customer service section that showcases the restaurant's commitment to customer satisfaction.
+add icons and a brief message for conviction..
+
+PROMPT 10
+Create a testimonials section displaying atleast 3 customer feedback. The cards should contain:
+ Customer reviews,
+ Customer initials,
+ Customer names or titles and address.
+
+
+
+PROMPT 11
+Develop a contact section divided into two columns:
+The left side should contain business information, an introductory message and a social media links.
+The right side should contain contact form allowing visitors to send inquiries.the form should consist of fullname, email,subject or feedback and message with a send message button.
+
+The section should use a  dark theme to distinguish it from previous sections.
+
+
+PROMPT 12
+Build a comprehensive footer containing:
+
+Brand information,
+Quick navigation links,
+Newsletter subscription form,
+Legal information.
+
+Use a dark background to the landing page.
+
+PROMPT 13
+
+Ensure the entire MamaPutOnline website is fully mobile/tablet responsive by adjusting layouts, typography, spacing, and navigation behaviour while maintaining visual consistency.
+
+
+WHAT I VIBE ENGINEERED.
+1. 
+
+
+Dewey Classification System for MamaPutOnline Landing Page
+
+1.0 = MamaPutOnline Landing Page
+
+   1.1 = Menu Section
+      1.1.1 = Sticky Header
+      1.1.2 = Logo Section
+          1.1.2.1 = Cooking Pot Logo Icon
+          1.1.2.2 = MamaPutOnline Brand Name
+          1.1.2.3 = Logo Positioned at the Top Left-Hand Side
+
+      1.1.3 = Menu Bar Section
+          1.1.3.1 = Products
+          1.1.3.2 = Services
+          1.1.3.3 = Customer Services
+          1.1.3.4 = Contact Us
+          1.1.3.5 = Testimonials
+
+      1.1.4 = Dropdown Menu Section
+          1.1.4.1 = Products Dropdown
+          1.1.4.2 = Services Dropdown
+          1.1.4.3 = Customer Services Dropdown
+          1.1.4.4 = Contact Us Dropdown
+
+      1.1.5 = Search Section
+          1.1.5.1 = Search Icon Inside Input Field
+          1.1.5.2 = Search Input Field
+          1.1.5.3 = Search Button Positioned on the Right
+
+      1.1.6 = Order Now Section
+          1.1.6.1 = Order Now Link
+          1.1.6.2 = Cart Collection Functionality
+          1.1.6.3 = Hover Effects on Order Button
+
+   1.2 = Hero Section
+      1.2.1 = Hero Background Design
+      1.2.2 = Hero Layout Partitioning
+
+          1.2.2.1 = Left Hero Column
+              1.2.2.1.1 = Nigerian Dish Image
+              1.2.2.1.2 = Image Aspect Ratio Adjustment
+              1.2.2.1.3 = Image Hover Effects
+
+          1.2.2.2 = Right Hero Column
+              1.2.2.2.1 = Promotional Heading
+              1.2.2.2.2 = Supporting Description
+              1.2.2.2.3 = Call-to-Action Buttons
+              1.2.2.2.4 = Order Now Button
+              1.2.2.2.5 = View Menu Button
+
+   1.3 = Main Product Section
+
+      1.3.1 = Sidebar Section
+          1.3.1.1 = Soups Category
+          1.3.1.2 = Rice Specials Category
+          1.3.1.3 = Swallow Meals Category
+          1.3.1.4 = Proteins Category
+          1.3.1.5 = Breakfast Category
+          1.3.1.6 = Drinks Category
+
+      1.3.2 = Product Display Area
+
+          1.3.2.1 = Product Row One
+              1.3.2.1.1 = Product Card One
+              1.3.2.1.2 = Product Card Two
+              1.3.2.1.3 = Product Card Three
+              1.3.2.1.4 = Product Card Four
+
+          1.3.2.2 = Product Row Two
+              1.3.2.2.1 = Product Card One
+              1.3.2.2.2 = Product Card Two
+              1.3.2.2.3 = Product Card Three
+              1.3.2.2.4 = Product Card Four
+
+          1.3.2.3 = Product Row Three
+              1.3.2.3.1 = Product Card One
+              1.3.2.3.2 = Product Card Two
+              1.3.2.3.3 = Product Card Three
+              1.3.2.3.4 = Product Card Four
+
+      1.3.3 = Product Card Components
+          1.3.3.1 = Product Image
+          1.3.3.2 = Product Name
+          1.3.3.3 = Product Quantity
+          1.3.3.4 = Product Price in Naira
+          1.3.3.5 = Add to Cart Button
+
+   1.4 = Services Section
+      1.4.1 = Home Delivery Service
+      1.4.2 = Event Catering Service
+      1.4.3 = Bulk Orders Service
+      1.4.4 = Meal Subscription Service
+
+   1.5 = Testimonials Section
+      1.5.1 = Customer Review Cards
+      1.5.2 = Customer Names
+      1.5.3 = Customer Occupations
+
+   1.6 = Contact Section
+      1.6.1 = Contact Information
+      1.6.2 = Social Media Links
+      1.6.3 = Contact Form
+
+          1.6.3.1 = Name Input Field
+          1.6.3.2 = Email Input Field
+          1.6.3.3 = Subject Input Field
+          1.6.3.4 = Message Text Area
+          1.6.3.5 = Submit Button
+
+   1.7 = Footer Section
+      1.7.1 = Sticky Footer
+      1.7.2 = Brand Information
+      1.7.3 = Quick Links
+      1.7.4 = Customer Support Links
+      1.7.5 = Newsletter Subscription Section
+      1.7.6 = Social Media Links
+      1.7.7 = Copyright Information
+
+2.0 = Responsiveness
+
+   2.1 = Mobile Responsiveness
+
+   2.2 = Tablet Responsiveness
+
+   2.3 = Desktop Responsiveness
+
+3.0 = Difficulties Encountered During the Project
+
+   3.1 = Sticky Header Alignment Challenges
+
+   3.2 = Creating Dropdown Menus Without JavaScript
+
+   3.3 = Managing Responsive Product Grids
+
+   3.4 = Maintaining Consistent Typography and Colour Usage
+
+   3.5 = Organizing Sidebar Navigation with Product Rows
+
+   3.6 = Selecting High-Quality Nigerian Food Images
+
+   3.7 = Ensuring Sticky Footer Compatibility Across Devices
